@@ -1,0 +1,3157 @@
+{
+  "teams": [
+    {
+      "name": "通用PVE阵容 (@泷景)",
+      "members": [
+        {
+          "name": "翠顶夫人",
+          "nature": "大胆",
+          "bloodline": "水",
+          "skills": [
+            {
+              "name": "润泽",
+              "attribute": "水",
+              "category": "状态",
+              "power": 0,
+              "cost": 7
+            },
+            {
+              "name": "力量增效",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "风隐",
+              "attribute": "翼",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "飞羽",
+              "attribute": "翼",
+              "category": "状态",
+              "power": 0,
+              "cost": 0
+            }
+          ],
+          "note": "个体: 生命,物防,速度",
+          "attributes": [
+            "翼",
+            "水"
+          ],
+          "stats": {
+            "hp": 125,
+            "atk": 95,
+            "sp_atk": 86,
+            "def": 138,
+            "sp_def": 97,
+            "spd": 115,
+            "total": 656
+          },
+          "no": null,
+          "ability": {
+            "name": "洁癖",
+            "description": "离场后，自己的增益和减益会被更换入场的精灵继承。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "速度"
+          ]
+        },
+        {
+          "name": "迪莫",
+          "nature": "固执",
+          "bloodline": "光",
+          "skills": [
+            {
+              "name": "折射",
+              "attribute": "光",
+              "category": "魔攻",
+              "power": 50,
+              "cost": 4
+            },
+            {
+              "name": "棘突",
+              "attribute": "草",
+              "category": "魔攻",
+              "power": 100,
+              "cost": 3
+            },
+            {
+              "name": "超导",
+              "attribute": "电",
+              "category": "魔攻",
+              "power": 95,
+              "cost": 3
+            },
+            {
+              "name": "火焰箭",
+              "attribute": "火",
+              "category": "物攻",
+              "power": 80,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 物攻,魔攻,速度",
+          "attributes": [
+            "光"
+          ],
+          "stats": {
+            "hp": 120,
+            "atk": 80,
+            "sp_atk": 80,
+            "def": 105,
+            "sp_def": 105,
+            "spd": 92,
+            "total": 582
+          },
+          "no": null,
+          "ability": {
+            "name": "最好的伙伴",
+            "description": "造成克制伤害后，获得攻防速+20%，并回复2能量。"
+          },
+          "boosts": [
+            "物攻",
+            "魔攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "火神",
+          "nature": "勇敢",
+          "bloodline": "火",
+          "skills": [
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "火云车",
+              "attribute": "火",
+              "category": "物攻",
+              "power": 140,
+              "cost": 5
+            },
+            {
+              "name": "暗突袭",
+              "attribute": "恶",
+              "category": "物攻",
+              "power": 70,
+              "cost": 4
+            },
+            {
+              "name": "力量增效",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,物攻,魔攻",
+          "attributes": [
+            "火"
+          ],
+          "stats": {
+            "hp": 117,
+            "atk": 139,
+            "sp_atk": 61,
+            "def": 94,
+            "sp_def": 72,
+            "spd": 130,
+            "total": 613
+          },
+          "no": null,
+          "ability": {
+            "name": "助燃",
+            "description": "使用火系技能后，获得双攻+20%。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "魔攻"
+          ]
+        },
+        {
+          "name": "罗隐",
+          "nature": "固执",
+          "bloodline": "地",
+          "skills": [
+            {
+              "name": "蝙蝠",
+              "attribute": "恶",
+              "category": "物攻",
+              "power": 65,
+              "cost": 2
+            },
+            {
+              "name": "力量增效",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "岩土暴击",
+              "attribute": "地",
+              "category": "物攻",
+              "power": 140,
+              "cost": 8
+            },
+            {
+              "name": "鸣沙陷阱",
+              "attribute": "地",
+              "category": "物攻",
+              "power": 60,
+              "cost": 4
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "地",
+            "恶"
+          ],
+          "stats": {
+            "hp": 107,
+            "atk": 159,
+            "sp_atk": 78,
+            "def": 112,
+            "sp_def": 70,
+            "spd": 75,
+            "total": 601
+          },
+          "no": null,
+          "ability": {
+            "name": "石头大餐",
+            "description": "能量不足时，消耗5%生命，代替1能量。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "奇丽花",
+          "nature": "保守",
+          "bloodline": "草",
+          "skills": [
+            {
+              "name": "光能聚集",
+              "attribute": "草",
+              "category": "魔攻",
+              "power": 100,
+              "cost": 7
+            },
+            {
+              "name": "纤维化",
+              "attribute": "草",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "花炮",
+              "attribute": "草",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,魔攻,速度",
+          "attributes": [
+            "草"
+          ],
+          "stats": {
+            "hp": 112,
+            "atk": 115,
+            "sp_atk": 115,
+            "def": 121,
+            "sp_def": 95,
+            "spd": 80,
+            "total": 638
+          },
+          "no": null,
+          "ability": {
+            "name": "养分重吸收",
+            "description": "回合结束时，回复3能量。"
+          },
+          "boosts": [
+            "HP",
+            "魔攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "圣羽翼王",
+          "nature": "固执",
+          "bloodline": "翼",
+          "skills": [
+            {
+              "name": "乘胜追击",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 40,
+              "cost": 2
+            },
+            {
+              "name": "热身运动",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "伺机而动",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "疾风刺",
+              "attribute": "翼",
+              "category": "物攻",
+              "power": 25,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "翼"
+          ],
+          "stats": {
+            "hp": 132,
+            "atk": 109,
+            "sp_atk": 109,
+            "def": 128,
+            "sp_def": 83,
+            "spd": 125,
+            "total": 686
+          },
+          "no": null,
+          "ability": {
+            "name": "飓风",
+            "description": "对本精灵的技能，若其他翼系精灵携带相同技能，则获得迅捷。被敌方精灵击败时，自己额外损失1点魔力。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        }
+      ],
+      "magic": "进化之力",
+      "source": "wiki",
+      "wiki_id": "57d143f5126160391043f1c54eb1dd95",
+      "wiki_author": "泷景",
+      "wiki_date": "2026-4-2",
+      "wiki_type": "pve",
+      "wiki_desc": "首发：翠顶夫人（强化铺垫）"
+    },
+    {
+      "name": "传统轮换毒队 (@白色乌托邦)",
+      "members": [
+        {
+          "name": "海豹船长",
+          "nature": "勇敢",
+          "bloodline": "武",
+          "skills": [
+            {
+              "name": "听桥",
+              "attribute": "武",
+              "category": "防御",
+              "power": 0,
+              "cost": 4
+            },
+            {
+              "name": "斩断",
+              "attribute": "武",
+              "category": "物攻",
+              "power": 70,
+              "cost": 2
+            },
+            {
+              "name": "水刃",
+              "attribute": "水",
+              "category": "物攻",
+              "power": 115,
+              "cost": 4
+            },
+            {
+              "name": "有效预防",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,物攻,物防",
+          "attributes": [
+            "武",
+            "水"
+          ],
+          "stats": {
+            "hp": 90,
+            "atk": 113,
+            "sp_atk": 109,
+            "def": 111,
+            "sp_def": 77,
+            "spd": 100,
+            "total": 600
+          },
+          "no": null,
+          "ability": {
+            "name": "身经百练",
+            "description": "己方精灵每应对1次，自己入场时水系和武系技能威力+20%。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "物防"
+          ]
+        },
+        {
+          "name": "厉毒修萝",
+          "nature": "开朗",
+          "bloodline": "武",
+          "skills": [
+            {
+              "name": "三连破",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "缠丝劲",
+              "attribute": "武",
+              "category": "物攻",
+              "power": 25,
+              "cost": 1
+            },
+            {
+              "name": "趁火打劫",
+              "attribute": "恶",
+              "category": "物攻",
+              "power": 35,
+              "cost": 3
+            },
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "毒",
+            "恶"
+          ],
+          "stats": {
+            "hp": 84,
+            "atk": 80,
+            "sp_atk": 21,
+            "def": 101,
+            "sp_def": 74,
+            "spd": 135,
+            "total": 495
+          },
+          "no": null,
+          "ability": {
+            "name": "侵蚀",
+            "description": "敌方每有1层中毒效果，自己获得连击数+1。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "琉璃水母",
+          "nature": "沉默",
+          "bloodline": "毒",
+          "skills": [
+            {
+              "name": "洗礼",
+              "attribute": "水",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "泡沫幻影",
+              "attribute": "水",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "天洪",
+              "attribute": "水",
+              "category": "魔攻",
+              "power": 150,
+              "cost": 7
+            },
+            {
+              "name": "鸩毒",
+              "attribute": "毒",
+              "category": "魔攻",
+              "power": 75,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "水",
+            "毒"
+          ],
+          "stats": {
+            "hp": 134,
+            "atk": 37,
+            "sp_atk": 85,
+            "def": 93,
+            "sp_def": 136,
+            "spd": 95,
+            "total": 580
+          },
+          "no": null,
+          "ability": {
+            "name": "扩散侵蚀",
+            "description": "使用水系技能后，敌方获得中毒，获得层数等于中毒印记层数的2倍。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "迷迷箱怪",
+          "nature": "冷静",
+          "bloodline": "幻",
+          "skills": [
+            {
+              "name": "双星",
+              "attribute": "幻",
+              "category": "物攻",
+              "power": 100,
+              "cost": 3
+            },
+            {
+              "name": "啮合传递",
+              "attribute": "机械",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "齿轮切开",
+              "attribute": "机械",
+              "category": "物攻",
+              "power": 130,
+              "cost": 5
+            },
+            {
+              "name": "错乱",
+              "attribute": "幻",
+              "category": "魔攻",
+              "power": 65,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,魔攻,物防",
+          "attributes": [
+            "机械",
+            "幻"
+          ],
+          "stats": {
+            "hp": 138,
+            "atk": 129,
+            "sp_atk": 129,
+            "def": 153,
+            "sp_def": 153,
+            "spd": 80,
+            "total": 782
+          },
+          "no": null,
+          "ability": {
+            "name": "虚假宝箱",
+            "description": "自己力竭时，敌方获得攻防+20%。"
+          },
+          "boosts": [
+            "HP",
+            "魔攻",
+            "物防"
+          ]
+        },
+        {
+          "name": "千棘盔（本来的样子）",
+          "nature": "平和",
+          "bloodline": "首领",
+          "skills": [
+            {
+              "name": "毒雾",
+              "attribute": "毒",
+              "category": "状态",
+              "power": 0,
+              "cost": 7
+            },
+            {
+              "name": "泡沫幻影",
+              "attribute": "水",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "打湿",
+              "attribute": "水",
+              "category": "状态",
+              "power": 0,
+              "cost": 4
+            },
+            {
+              "name": "毒液渗透",
+              "attribute": "毒",
+              "category": "魔攻",
+              "power": 120,
+              "cost": 5
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "水",
+            "毒"
+          ],
+          "stats": {
+            "hp": 118,
+            "atk": 41,
+            "sp_atk": 99,
+            "def": 76,
+            "sp_def": 111,
+            "spd": 100,
+            "total": 545
+          },
+          "no": null,
+          "ability": {
+            "name": "溶解扩散",
+            "description": "每携带1个毒系技能进入战斗，水系技能使敌方获得1层中毒。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "裘卡",
+          "nature": "开朗",
+          "bloodline": "毒",
+          "skills": [
+            {
+              "name": "阻断",
+              "attribute": "普通",
+              "category": "魔攻",
+              "power": 75,
+              "cost": 2
+            },
+            {
+              "name": "腐化",
+              "attribute": "毒",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "毒囊",
+              "attribute": "毒",
+              "category": "物攻",
+              "power": 25,
+              "cost": 2
+            },
+            {
+              "name": "剧毒",
+              "attribute": "毒",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "毒"
+          ],
+          "stats": {
+            "hp": 73,
+            "atk": 93,
+            "sp_atk": 83,
+            "def": 65,
+            "sp_def": 81,
+            "spd": 125,
+            "total": 520
+          },
+          "no": null,
+          "ability": {
+            "name": "蚀刻",
+            "description": "回合结束时，敌方每2层中毒转化为1层中毒印记。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        }
+      ],
+      "magic": "进化之力",
+      "source": "wiki",
+      "wiki_id": "14a00210c2955d4e8c81716dc98b07d6",
+      "wiki_author": "白色乌托邦",
+      "wiki_date": "2026-4-19",
+      "wiki_type": "pvp",
+      "wiki_desc": "传统轮换毒，需要较强的能力"
+    },
+    {
+      "name": "平衡武 (@果果果粒糖1)",
+      "members": [
+        {
+          "name": "贝古斯",
+          "nature": "沉默",
+          "bloodline": "翼",
+          "skills": [
+            {
+              "name": "燃尽",
+              "attribute": "火",
+              "category": "魔攻",
+              "power": 155,
+              "cost": 4
+            },
+            {
+              "name": "倾泻",
+              "attribute": "普通",
+              "category": "魔攻",
+              "power": 70,
+              "cost": 3
+            },
+            {
+              "name": "磁暴",
+              "attribute": "机械",
+              "category": "魔攻",
+              "power": 70,
+              "cost": 2
+            },
+            {
+              "name": "羽化加速",
+              "attribute": "翼",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,魔攻,物防",
+          "attributes": [
+            "机械",
+            "火"
+          ],
+          "stats": {
+            "hp": 132,
+            "atk": 76,
+            "sp_atk": 130,
+            "def": 85,
+            "sp_def": 163,
+            "spd": 55,
+            "total": 641
+          },
+          "no": null,
+          "ability": {
+            "name": "贪心算法",
+            "description": "1号位技能获得传动1，且使用后使敌方获得6层灼烧。"
+          },
+          "boosts": [
+            "HP",
+            "魔攻",
+            "物防"
+          ]
+        },
+        {
+          "name": "海豹船长",
+          "nature": "固执",
+          "bloodline": "武",
+          "skills": [
+            {
+              "name": "水刃",
+              "attribute": "水",
+              "category": "物攻",
+              "power": 115,
+              "cost": 4
+            },
+            {
+              "name": "斩断",
+              "attribute": "武",
+              "category": "物攻",
+              "power": 70,
+              "cost": 2
+            },
+            {
+              "name": "听桥",
+              "attribute": "武",
+              "category": "防御",
+              "power": 0,
+              "cost": 4
+            },
+            {
+              "name": "硬门",
+              "attribute": "武",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,物攻,物防",
+          "attributes": [
+            "武",
+            "水"
+          ],
+          "stats": {
+            "hp": 90,
+            "atk": 113,
+            "sp_atk": 109,
+            "def": 111,
+            "sp_def": 77,
+            "spd": 100,
+            "total": 600
+          },
+          "no": null,
+          "ability": {
+            "name": "身经百练",
+            "description": "己方精灵每应对1次，自己入场时水系和武系技能威力+20%。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "物防"
+          ]
+        },
+        {
+          "name": "利灯鱼",
+          "nature": "保守",
+          "bloodline": "火",
+          "skills": [
+            {
+              "name": "水光冲击",
+              "attribute": "水",
+              "category": "魔攻",
+              "power": 140,
+              "cost": 5
+            },
+            {
+              "name": "落雷",
+              "attribute": "电",
+              "category": "魔攻",
+              "power": 35,
+              "cost": 3
+            },
+            {
+              "name": "快速移动",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "倾泻",
+              "attribute": "普通",
+              "category": "魔攻",
+              "power": 70,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,魔攻,速度",
+          "attributes": [
+            "水",
+            "电"
+          ],
+          "stats": {
+            "hp": 128,
+            "atk": 68,
+            "sp_atk": 138,
+            "def": 71,
+            "sp_def": 116,
+            "spd": 105,
+            "total": 626
+          },
+          "no": null,
+          "ability": {
+            "name": "对流",
+            "description": "自己的能耗增加变为能耗降低；能耗降低变为能耗增加。"
+          },
+          "boosts": [
+            "HP",
+            "魔攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "绒光优优",
+          "nature": "胆小",
+          "bloodline": "萌",
+          "skills": [
+            {
+              "name": "热砂",
+              "attribute": "地",
+              "category": "魔攻",
+              "power": 80,
+              "cost": 2
+            },
+            {
+              "name": "天光",
+              "attribute": "光",
+              "category": "魔攻",
+              "power": 95,
+              "cost": 3
+            },
+            {
+              "name": "蓄势待发",
+              "attribute": "地",
+              "category": "状态",
+              "power": 0,
+              "cost": 4
+            },
+            {
+              "name": "遁地",
+              "attribute": "地",
+              "category": "防御",
+              "power": 0,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,魔攻,速度",
+          "attributes": [
+            "地",
+            "光"
+          ],
+          "stats": {
+            "hp": 101,
+            "atk": 43,
+            "sp_atk": 111,
+            "def": 105,
+            "sp_def": 130,
+            "spd": 115,
+            "total": 605
+          },
+          "no": null,
+          "ability": {
+            "name": "哨兵",
+            "description": "回合开始时若敌方技能足够击败自己，自己获得速度+50，行动后脱离。"
+          },
+          "boosts": [
+            "HP",
+            "魔攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "小皮球",
+          "nature": "胆小",
+          "bloodline": "电",
+          "skills": [
+            {
+              "name": "落雷",
+              "attribute": "电",
+              "category": "魔攻",
+              "power": 35,
+              "cost": 3
+            },
+            {
+              "name": "大爆炸",
+              "attribute": "幻",
+              "category": "魔攻",
+              "power": 100,
+              "cost": 3
+            },
+            {
+              "name": "过载回路",
+              "attribute": "电",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,魔攻,速度",
+          "attributes": [
+            "电",
+            "幻"
+          ],
+          "stats": {
+            "hp": 116,
+            "atk": 68,
+            "sp_atk": 127,
+            "def": 71,
+            "sp_def": 126,
+            "spd": 110,
+            "total": 618
+          },
+          "no": null,
+          "ability": {
+            "name": "星地善良",
+            "description": "回合结束时，若场上的己方精灵能量等于0，自己立即替换此精灵。"
+          },
+          "boosts": [
+            "HP",
+            "魔攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "瞌睡王",
+          "no": null,
+          "form": "原始形态",
+          "region_form": null,
+          "attributes": [
+            "普通",
+            "武"
+          ],
+          "stats": {
+            "hp": 144,
+            "atk": 157,
+            "sp_atk": 64,
+            "def": 135,
+            "sp_def": 110,
+            "spd": 75,
+            "total": 685
+          },
+          "ability": {
+            "name": "慢热型",
+            "description": "初始能量为0，入场前己方精灵每成功应对1次，回复5能量。"
+          },
+          "nature": "固执",
+          "note": "个体: 生命,物攻,魔防",
+          "bloodline": "冰",
+          "boosts": [
+            "物攻",
+            "魔攻",
+            "魔防"
+          ],
+          "skills": [
+            {
+              "name": "斩断",
+              "attribute": "武",
+              "category": "物攻",
+              "cost": "2",
+              "power": "70",
+              "effect": "造成物伤，应对状态：额外打断被应对技能。",
+              "description": "<table style=\"border-collapse: separate; border-spacing: 15px 0; text-align: center;\">\n<tr><td></td></tr>\n</table><tr><td>'''S2赛季调整：</td><td>&nbsp;威力75一70，造成物伤，应对状态:额外打断被应对技能</td></tr>",
+              "skill_version": "0.2",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\斩断.png"
+              ]
+            },
+            {
+              "name": "能量刃",
+              "attribute": "普通",
+              "category": "物攻",
+              "cost": "3",
+              "power": "80",
+              "effect": "造成物伤，每应对成功1次，本技能威力永久+90。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\能量刃.png"
+              ]
+            },
+            {
+              "name": "有效预防",
+              "attribute": "普通",
+              "category": "防御",
+              "cost": "1",
+              "power": "0",
+              "effect": "减伤50%，应对攻击：下一次行动获得先手+1。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\有效预防.png"
+              ]
+            },
+            {
+              "name": "应激反应",
+              "attribute": "普通",
+              "category": "状态",
+              "cost": "2",
+              "power": "0",
+              "effect": "自己回复25%生命，应对防御：改为回复50%生命。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\应激反应.png"
+              ]
+            }
+          ]
+        }
+      ],
+      "magic": "强化术",
+      "source": "wiki",
+      "wiki_id": "13128746074809add33c7b44d00c76d0",
+      "wiki_author": "果果果粒糖1",
+      "wiki_date": "2026-4-10",
+      "wiki_type": "pvp",
+      "wiki_desc": "细品"
+    },
+    {
+      "name": "123 (@123)",
+      "members": [
+        {
+          "name": "红绒十字",
+          "nature": "沉着",
+          "bloodline": "普通",
+          "skills": [
+            {
+              "name": "赤子之心",
+              "attribute": "萌",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "除厄",
+              "attribute": "火",
+              "category": "魔攻",
+              "power": 60,
+              "cost": 2
+            },
+            {
+              "name": "火焰护盾",
+              "attribute": "火",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "焚烧烙印",
+              "attribute": "火",
+              "category": "状态",
+              "power": 0,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,魔攻,魔防",
+          "attributes": [
+            "火",
+            "萌"
+          ],
+          "stats": {
+            "hp": 112,
+            "atk": 47,
+            "sp_atk": 122,
+            "def": 100,
+            "sp_def": 127,
+            "spd": 90,
+            "total": 598
+          },
+          "no": null,
+          "ability": {
+            "name": "仁心",
+            "description": "敌方受到灼烧伤害时，自己回复等量生命。"
+          },
+          "boosts": [
+            "HP",
+            "魔攻",
+            "魔防"
+          ]
+        },
+        {
+          "name": "瞌睡王",
+          "nature": "平和",
+          "bloodline": "普通",
+          "skills": [
+            {
+              "name": "斩断",
+              "attribute": "武",
+              "category": "物攻",
+              "power": 70,
+              "cost": 2
+            },
+            {
+              "name": "气沉丹田",
+              "attribute": "武",
+              "category": "状态",
+              "power": 0,
+              "cost": 10
+            },
+            {
+              "name": "有效预防",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "能量刃",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 80,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "普通",
+            "武"
+          ],
+          "stats": {
+            "hp": 144,
+            "atk": 157,
+            "sp_atk": 64,
+            "def": 135,
+            "sp_def": 110,
+            "spd": 75,
+            "total": 685
+          },
+          "no": null,
+          "ability": {
+            "name": "慢热型",
+            "description": "初始能量为0，入场前己方精灵每成功应对1次，回复5能量。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "烈火守护",
+          "nature": "淘气",
+          "bloodline": "龙",
+          "skills": [
+            {
+              "name": "双响炮",
+              "attribute": "火",
+              "category": "物攻",
+              "power": 25,
+              "cost": 1
+            },
+            {
+              "name": "偷袭",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 85,
+              "cost": 3
+            },
+            {
+              "name": "彼岸之手",
+              "attribute": "恶",
+              "category": "物攻",
+              "power": 150,
+              "cost": 10
+            },
+            {
+              "name": "有效预防",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "火"
+          ],
+          "stats": {
+            "hp": 105,
+            "atk": 117,
+            "sp_atk": 49,
+            "def": 135,
+            "sp_def": 93,
+            "spd": 65,
+            "total": 564
+          },
+          "no": null,
+          "ability": {
+            "name": "蒸汽膨胀",
+            "description": "己方精灵每使用1次火系技能，自己入场时获得全技能威力+10。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "兽花蕾",
+          "nature": "狂妄",
+          "bloodline": "普通",
+          "skills": [
+            {
+              "name": "徒长",
+              "attribute": "草",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "移花接木",
+              "attribute": "草",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "晒太阳",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "飞羽",
+              "attribute": "翼",
+              "category": "状态",
+              "power": 0,
+              "cost": 0
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "光",
+            "草"
+          ],
+          "stats": {
+            "hp": 70,
+            "atk": 79,
+            "sp_atk": 82,
+            "def": 70,
+            "sp_def": 97,
+            "spd": 115,
+            "total": 513
+          },
+          "no": null,
+          "ability": {
+            "name": "稀兽花宝",
+            "description": "根据自己的血脉，入场时获得不同效果。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "水泡壳（蜕皮时的样子）",
+          "nature": "沉着",
+          "bloodline": "虫",
+          "skills": [
+            {
+              "name": "酶浓度调整",
+              "attribute": "草",
+              "category": "防御",
+              "power": 0,
+              "cost": 3
+            },
+            {
+              "name": "掩护",
+              "attribute": "虫",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "天洪",
+              "attribute": "水",
+              "category": "魔攻",
+              "power": 150,
+              "cost": 7
+            },
+            {
+              "name": "洗礼",
+              "attribute": "水",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "水"
+          ],
+          "stats": {
+            "hp": 112,
+            "atk": 46,
+            "sp_atk": 120,
+            "def": 107,
+            "sp_def": 134,
+            "spd": 75,
+            "total": 594
+          },
+          "no": null,
+          "ability": {
+            "name": "缩壳",
+            "description": "携带的防御技能能耗-2。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "针叶巡林",
+          "nature": "固执",
+          "bloodline": "草",
+          "skills": [
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "光合作用",
+              "attribute": "草",
+              "category": "状态",
+              "power": 0,
+              "cost": 4
+            },
+            {
+              "name": "地刺",
+              "attribute": "地",
+              "category": "物攻",
+              "power": 90,
+              "cost": 3
+            },
+            {
+              "name": "顶端优势",
+              "attribute": "草",
+              "category": "物攻",
+              "power": 100,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,物攻,物防",
+          "attributes": [
+            "草",
+            "武"
+          ],
+          "stats": {
+            "hp": 105,
+            "atk": 139,
+            "sp_atk": 57,
+            "def": 128,
+            "sp_def": 100,
+            "spd": 105,
+            "total": 634
+          },
+          "no": null,
+          "ability": {
+            "name": "野性感官",
+            "description": "应对成功后，下次行动先手+1。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "物防"
+          ]
+        }
+      ],
+      "magic": "强化术",
+      "source": "wiki",
+      "wiki_id": "345afc13827ac38a7c5edd880cb2fbec",
+      "wiki_author": "123",
+      "wiki_date": "2026-4-18",
+      "wiki_type": "pvp",
+      "wiki_desc": "123"
+    },
+    {
+      "name": "冰队自用 (@风赤)",
+      "members": [
+        {
+          "name": "尖嘴狐仙",
+          "nature": "淘气",
+          "bloodline": "冰",
+          "skills": [
+            {
+              "name": "火焰切割",
+              "attribute": "火",
+              "category": "物攻",
+              "power": 100,
+              "cost": 3
+            },
+            {
+              "name": "冬至",
+              "attribute": "冰",
+              "category": "状态",
+              "power": 0,
+              "cost": 7
+            },
+            {
+              "name": "火焰护盾",
+              "attribute": "火",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "晒太阳",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "火",
+            "冰"
+          ],
+          "stats": {
+            "hp": 115,
+            "atk": 87,
+            "sp_atk": 87,
+            "def": 84,
+            "sp_def": 107,
+            "spd": 100,
+            "total": 580
+          },
+          "no": null,
+          "ability": {
+            "name": "灵魂灼伤",
+            "description": "冰系技能使敌方获得4层灼烧，火系技能使敌方获得2层冻结。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "獠牙猪",
+          "nature": "慎重",
+          "bloodline": "冰",
+          "skills": [
+            {
+              "name": "地刺",
+              "attribute": "地",
+              "category": "物攻",
+              "power": 90,
+              "cost": 3
+            },
+            {
+              "name": "滚雪球",
+              "attribute": "冰",
+              "category": "物攻",
+              "power": 55,
+              "cost": 3
+            },
+            {
+              "name": "雪球",
+              "attribute": "冰",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "冰爪",
+              "attribute": "冰",
+              "category": "物攻",
+              "power": 80,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "冰",
+            "地"
+          ],
+          "stats": {
+            "hp": 123,
+            "atk": 119,
+            "sp_atk": 41,
+            "def": 110,
+            "sp_def": 101,
+            "spd": 85,
+            "total": 579
+          },
+          "no": null,
+          "ability": {
+            "name": "冻土",
+            "description": "每携带1个冰系技能进入战斗，地系技能威力+10%。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "绒光优优",
+          "nature": "胆小",
+          "bloodline": "武",
+          "skills": [
+            {
+              "name": "天光",
+              "attribute": "光",
+              "category": "魔攻",
+              "power": 95,
+              "cost": 3
+            },
+            {
+              "name": "流沙",
+              "attribute": "地",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "贯手",
+              "attribute": "武",
+              "category": "魔攻",
+              "power": 80,
+              "cost": 2
+            },
+            {
+              "name": "硬化",
+              "attribute": "地",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,魔攻,速度",
+          "attributes": [
+            "地",
+            "光"
+          ],
+          "stats": {
+            "hp": 101,
+            "atk": 43,
+            "sp_atk": 111,
+            "def": 105,
+            "sp_def": 130,
+            "spd": 115,
+            "total": 605
+          },
+          "no": null,
+          "ability": {
+            "name": "哨兵",
+            "description": "回合开始时若敌方技能足够击败自己，自己获得速度+50，行动后脱离。"
+          },
+          "boosts": [
+            "HP",
+            "魔攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "雪影娃娃",
+          "nature": "沉默",
+          "bloodline": "冰",
+          "skills": [
+            {
+              "name": "甜心续航",
+              "attribute": "萌",
+              "category": "状态",
+              "power": 0,
+              "cost": 3
+            },
+            {
+              "name": "冬至",
+              "attribute": "冰",
+              "category": "状态",
+              "power": 0,
+              "cost": 7
+            },
+            {
+              "name": "冰墙",
+              "attribute": "冰",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "碎冰冰",
+              "attribute": "冰",
+              "category": "魔攻",
+              "power": 40,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "冰",
+            "萌"
+          ],
+          "stats": {
+            "hp": 130,
+            "atk": 103,
+            "sp_atk": 98,
+            "def": 66,
+            "sp_def": 130,
+            "spd": 90,
+            "total": 617
+          },
+          "no": null,
+          "ability": {
+            "name": "捉迷藏",
+            "description": "使敌方获得冻结时，也会使其获得全技能能耗+1。"
+          },
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ]
+        },
+        {
+          "name": "椰浆布丁",
+          "nature": "保守",
+          "bloodline": "水",
+          "skills": [
+            {
+              "name": "泡沫幻影",
+              "attribute": "水",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "水弹枪",
+              "attribute": "水",
+              "category": "魔攻",
+              "power": 80,
+              "cost": 2
+            },
+            {
+              "name": "阻断",
+              "attribute": "普通",
+              "category": "魔攻",
+              "power": 75,
+              "cost": 2
+            },
+            {
+              "name": "冰墙",
+              "attribute": "冰",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "水",
+            "冰"
+          ],
+          "stats": {
+            "hp": 133,
+            "atk": 34,
+            "sp_atk": 89,
+            "def": 81,
+            "sp_def": 105,
+            "spd": 120,
+            "total": 562
+          },
+          "no": null,
+          "ability": {
+            "name": "吉利丁片",
+            "description": "离场后，更换入场的精灵获得双防+20%且免疫冻结。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "月牙雪熊",
+          "nature": "固执",
+          "bloodline": "翼",
+          "skills": [
+            {
+              "name": "吓退",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "风墙",
+              "attribute": "翼",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "先发制人",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 55,
+              "cost": 2
+            },
+            {
+              "name": "暴风雪",
+              "attribute": "冰",
+              "category": "物攻",
+              "power": 85,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "冰",
+            "幻"
+          ],
+          "stats": {
+            "hp": 126,
+            "atk": 97,
+            "sp_atk": 39,
+            "def": 141,
+            "sp_def": 103,
+            "spd": 80,
+            "total": 586
+          },
+          "no": null,
+          "ability": {
+            "name": "月牙雪糕",
+            "description": "使用攻击技能时，敌方每层冻结视为1层额外星陨印记。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        }
+      ],
+      "magic": "进化之力",
+      "source": "wiki",
+      "wiki_id": "9e18098fee602bd32c7e153b1be0283d",
+      "wiki_author": "风赤",
+      "wiki_date": "2026-4-14",
+      "wiki_type": "pvp",
+      "wiki_desc": "一般雪影娃娃首发"
+    },
+    {
+      "name": "123 (@123)",
+      "members": [
+        {
+          "name": "瞌睡王",
+          "nature": "平和",
+          "bloodline": "普通",
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ],
+          "skills": [
+            {
+              "name": "斩断",
+              "attribute": "武",
+              "category": "物攻",
+              "cost": "2",
+              "power": "70",
+              "effect": "造成物伤，应对状态：额外打断被应对技能。",
+              "description": "<table style=\"border-collapse: separate; border-spacing: 15px 0; text-align: center;\">\n<tr><td></td></tr>\n</table><tr><td>'''S2赛季调整：</td><td>&nbsp;威力75一70，造成物伤，应对状态:额外打断被应对技能</td></tr>",
+              "skill_version": "0.2",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\斩断.png"
+              ]
+            },
+            {
+              "name": "气沉丹田",
+              "attribute": "武",
+              "category": "状态",
+              "cost": "10",
+              "power": "0",
+              "effect": "自己回复60%生命，获得物攻+130%，每次应对后本技能能耗-3，使用后能耗重置。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\气沉丹田.png"
+              ]
+            },
+            {
+              "name": "有效预防",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "能量刃",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 80,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "普通",
+            "武"
+          ],
+          "stats": {
+            "hp": 144,
+            "atk": 157,
+            "sp_atk": 64,
+            "def": 135,
+            "sp_def": 110,
+            "spd": 75,
+            "total": 685
+          },
+          "no": null,
+          "ability": {
+            "name": "慢热型",
+            "description": "初始能量为0，入场前己方精灵每成功应对1次，回复5能量。"
+          }
+        },
+        {
+          "name": "烈火守护",
+          "nature": "淘气",
+          "bloodline": "龙",
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ],
+          "skills": [
+            {
+              "name": "双响炮",
+              "attribute": "火",
+              "category": "物攻",
+              "cost": "1",
+              "power": "25",
+              "effect": "造成物伤，2连击。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\双响炮.png"
+              ]
+            },
+            {
+              "name": "偷袭",
+              "attribute": "普通",
+              "category": "物攻",
+              "cost": "3",
+              "power": "85",
+              "effect": "造成物伤，应对状态：本次技能威力变为3倍。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\偷袭.png"
+              ]
+            },
+            {
+              "name": "彼岸之手",
+              "attribute": "恶",
+              "category": "物攻",
+              "power": 150,
+              "cost": 10
+            },
+            {
+              "name": "有效预防",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "火"
+          ],
+          "stats": {
+            "hp": 105,
+            "atk": 117,
+            "sp_atk": 49,
+            "def": 135,
+            "sp_def": 93,
+            "spd": 65,
+            "total": 564
+          },
+          "no": null,
+          "ability": {
+            "name": "蒸汽膨胀",
+            "description": "己方精灵每使用1次火系技能，自己入场时获得全技能威力+10。"
+          }
+        },
+        {
+          "name": "兽花蕾",
+          "nature": "狂妄",
+          "bloodline": "普通",
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ],
+          "skills": [
+            {
+              "name": "徒长",
+              "attribute": "草",
+              "category": "状态",
+              "cost": "2",
+              "power": "0",
+              "effect": "自己回复10能量。",
+              "description": "''只要能活下来，不论用什么手段.....''",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\徒长.png"
+              ]
+            },
+            {
+              "name": "移花接木",
+              "attribute": "草",
+              "category": "状态",
+              "cost": "2",
+              "power": "0",
+              "effect": "自己回复15%生命，随后脱离。",
+              "description": "''不算逃跑。''",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\移花接木.png"
+              ]
+            },
+            {
+              "name": "晒太阳",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "飞羽",
+              "attribute": "翼",
+              "category": "状态",
+              "power": 0,
+              "cost": 0
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "光",
+            "草"
+          ],
+          "stats": {
+            "hp": 70,
+            "atk": 79,
+            "sp_atk": 82,
+            "def": 70,
+            "sp_def": 97,
+            "spd": 115,
+            "total": 513
+          },
+          "no": null,
+          "ability": {
+            "name": "稀兽花宝",
+            "description": "根据自己的血脉，入场时获得不同效果。"
+          }
+        },
+        {
+          "name": "水泡壳（蜕皮时的样子）",
+          "nature": "沉着",
+          "bloodline": "虫",
+          "boosts": [
+            "HP",
+            "物防",
+            "魔防"
+          ],
+          "skills": [
+            {
+              "name": "酶浓度调整",
+              "attribute": "草",
+              "category": "防御",
+              "power": 0,
+              "cost": 3
+            },
+            {
+              "name": "掩护",
+              "attribute": "虫",
+              "category": "防御",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "天洪",
+              "attribute": "水",
+              "category": "魔攻",
+              "cost": "7",
+              "power": "150",
+              "effect": "造成魔伤，应对状态：本技能能耗永久-6。",
+              "description": "''月兔暗港最好的水手，可以让船在洪水风暴里张满帆。''",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\天洪.png"
+              ]
+            },
+            {
+              "name": "洗礼",
+              "attribute": "水",
+              "category": "状态",
+              "cost": "1",
+              "power": "0",
+              "effect": "驱散自己的减益，并获得全技能能耗-1。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\洗礼.png"
+              ]
+            }
+          ],
+          "note": "个体: 生命,物防,魔防",
+          "attributes": [
+            "水"
+          ],
+          "stats": {
+            "hp": 112,
+            "atk": 46,
+            "sp_atk": 120,
+            "def": 107,
+            "sp_def": 134,
+            "spd": 75,
+            "total": 594
+          },
+          "no": null,
+          "ability": {
+            "name": "缩壳",
+            "description": "携带的防御技能能耗-2。"
+          }
+        },
+        {
+          "name": "针叶巡林",
+          "nature": "固执",
+          "bloodline": "草",
+          "boosts": [
+            "HP",
+            "物攻",
+            "物防"
+          ],
+          "skills": [
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "cost": "1",
+              "power": "0",
+              "effect": "减伤70%，应对攻击。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\防御.png"
+              ]
+            },
+            {
+              "name": "光合作用",
+              "attribute": "草",
+              "category": "状态",
+              "power": 0,
+              "cost": 4
+            },
+            {
+              "name": "地刺",
+              "attribute": "地",
+              "category": "物攻",
+              "power": 90,
+              "cost": 3
+            },
+            {
+              "name": "顶端优势",
+              "attribute": "草",
+              "category": "物攻",
+              "cost": "3",
+              "power": "100",
+              "effect": "对敌方精灵造成物理伤害。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\顶端优势.png"
+              ]
+            }
+          ],
+          "note": "个体: 生命,物攻,物防",
+          "attributes": [
+            "草",
+            "武"
+          ],
+          "stats": {
+            "hp": 105,
+            "atk": 139,
+            "sp_atk": 57,
+            "def": 128,
+            "sp_def": 100,
+            "spd": 105,
+            "total": 634
+          },
+          "no": null,
+          "ability": {
+            "name": "野性感官",
+            "description": "应对成功后，下次行动先手+1。"
+          }
+        },
+        {
+          "name": "红绒十字",
+          "no": null,
+          "form": "原始形态",
+          "region_form": null,
+          "attributes": [
+            "火",
+            "萌"
+          ],
+          "stats": {
+            "hp": 112,
+            "atk": 47,
+            "sp_atk": 122,
+            "def": 100,
+            "sp_def": 127,
+            "spd": 90,
+            "total": 598
+          },
+          "ability": {
+            "name": "仁心",
+            "description": "敌方受到灼烧伤害时，自己回复等量生命。"
+          },
+          "nature": "沉着",
+          "note": "个体: 生命,魔攻,魔防",
+          "bloodline": "普通",
+          "boosts": [
+            "物攻",
+            "速度",
+            "物攻"
+          ],
+          "skills": [
+            {
+              "name": "赤子之心",
+              "attribute": "萌",
+              "category": "状态",
+              "cost": "2",
+              "power": "0",
+              "effect": "自己获得萌化：全技能能耗永久-3。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\赤子之心.png"
+              ]
+            },
+            {
+              "name": "除厄",
+              "attribute": "火",
+              "category": "魔攻",
+              "cost": "2",
+              "power": "60",
+              "effect": "造成魔伤，驱散自己的减益。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\除厄.png"
+              ]
+            },
+            {
+              "name": "火焰护盾",
+              "attribute": "火",
+              "category": "防御",
+              "cost": "2",
+              "power": "0",
+              "effect": "减伤70%，应对攻击：敌方获得6层灼烧。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\火焰护盾.png"
+              ]
+            },
+            {
+              "name": "焚烧烙印",
+              "attribute": "火",
+              "category": "状态",
+              "cost": "3",
+              "power": "0",
+              "effect": "驱散双方所有印记，每驱散1层，敌方获得5层灼烧。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\焚烧烙印.png"
+              ]
+            }
+          ]
+        }
+      ],
+      "source": "wiki",
+      "wiki_id": "345afc13827ac38a7c5edd880cb2fbec",
+      "wiki_author": "123",
+      "author": "123",
+      "wiki_date": "2026-4-18",
+      "date": "2026-4-18",
+      "wiki_type": "pvp",
+      "type": "pvp",
+      "wiki_desc": "123",
+      "description": "123",
+      "magic": "强化术"
+    },
+    {
+      "name": "测试功能队 (@轩轩轩123)",
+      "members": [
+        {
+          "name": "迪莫",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "skills": [
+            {
+              "name": "猛烈撞击",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 65,
+              "cost": 1
+            },
+            {
+              "name": "闪光",
+              "attribute": "光",
+              "category": "魔攻",
+              "power": 60,
+              "cost": 1
+            },
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "魔法增效",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 0
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "光"
+          ],
+          "stats": {
+            "hp": 120,
+            "atk": 80,
+            "sp_atk": 80,
+            "def": 105,
+            "sp_def": 105,
+            "spd": 92,
+            "total": 582
+          },
+          "no": null,
+          "ability": {
+            "name": "最好的伙伴",
+            "description": "造成克制伤害后，获得攻防速+20%，并回复2能量。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "火神",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "skills": [
+            {
+              "name": "力量增效",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "火苗",
+              "attribute": "火",
+              "category": "物攻",
+              "power": 30,
+              "cost": 0
+            },
+            {
+              "name": "猛烈撞击",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 65,
+              "cost": 1
+            },
+            {
+              "name": "火焰切割",
+              "attribute": "火",
+              "category": "物攻",
+              "power": 100,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "火"
+          ],
+          "stats": {
+            "hp": 117,
+            "atk": 139,
+            "sp_atk": 61,
+            "def": 94,
+            "sp_def": 72,
+            "spd": 130,
+            "total": 613
+          },
+          "no": null,
+          "ability": {
+            "name": "助燃",
+            "description": "使用火系技能后，获得双攻+20%。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "岚鸟（本来的样子）",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "skills": [
+            {
+              "name": "啄击",
+              "attribute": "翼",
+              "category": "物攻",
+              "power": 15,
+              "cost": 0
+            },
+            {
+              "name": "力量增效",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "先发制人",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 55,
+              "cost": 2
+            },
+            {
+              "name": "乘风",
+              "attribute": "翼",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "翼"
+          ],
+          "stats": {
+            "hp": 90,
+            "atk": 128,
+            "sp_atk": 55,
+            "def": 108,
+            "sp_def": 74,
+            "spd": 115,
+            "total": 570
+          },
+          "no": null,
+          "ability": {
+            "name": "顺风",
+            "description": "若先于敌方攻击，本次技能威力+50%。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "魔力猫",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "skills": [
+            {
+              "name": "抓挠",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 35,
+              "cost": 0
+            },
+            {
+              "name": "休息回复",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 2
+            },
+            {
+              "name": "棘突",
+              "attribute": "草",
+              "category": "魔攻",
+              "power": 100,
+              "cost": 3
+            },
+            {
+              "name": "扫尾",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 90,
+              "cost": 2
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "草"
+          ],
+          "stats": {
+            "hp": 108,
+            "atk": 109,
+            "sp_atk": 109,
+            "def": 81,
+            "sp_def": 151,
+            "spd": 55,
+            "total": 613
+          },
+          "no": null,
+          "ability": {
+            "name": "氧循环",
+            "description": "使用草系技能后，回复10%生命。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "水灵",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "skills": [
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "拍击",
+              "attribute": "普通",
+              "category": "魔攻",
+              "power": 65,
+              "cost": 1
+            },
+            {
+              "name": "甩水",
+              "attribute": "水",
+              "category": "魔攻",
+              "power": 30,
+              "cost": 0
+            },
+            {
+              "name": "气泡",
+              "attribute": "水",
+              "category": "魔攻",
+              "power": 100,
+              "cost": 3
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "水"
+          ],
+          "stats": {
+            "hp": 125,
+            "atk": 58,
+            "sp_atk": 127,
+            "def": 94,
+            "sp_def": 132,
+            "spd": 85,
+            "total": 621
+          },
+          "no": null,
+          "ability": {
+            "name": "浸润",
+            "description": "使用水系技能后，全技能能耗-1。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        },
+        {
+          "name": "鸭吉吉（蓬松的样子）",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "skills": [
+            {
+              "name": "猛烈撞击",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 65,
+              "cost": 1
+            },
+            {
+              "name": "力量增效",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "扫尾",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 90,
+              "cost": 2
+            },
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "power": 0,
+              "cost": 1
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "普通"
+          ],
+          "stats": {
+            "hp": 137,
+            "atk": 35,
+            "sp_atk": 94,
+            "def": 46,
+            "sp_def": 57,
+            "spd": 100,
+            "total": 469
+          },
+          "no": null,
+          "ability": {
+            "name": "挺起胸脯",
+            "description": "携带的能耗为1的技能，威力+50%。"
+          },
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ]
+        }
+      ],
+      "magic": "进化之力",
+      "source": "wiki",
+      "wiki_id": "f614b3257c5fc9e4a8d6c7a7f4a516ac",
+      "wiki_author": "轩轩轩123",
+      "wiki_date": "2026-4-10",
+      "wiki_type": "pvp",
+      "wiki_desc": "测试一下上传功能是否能够正常使用"
+    },
+    {
+      "name": "测试功能队 (@轩轩轩123)",
+      "members": [
+        {
+          "name": "迪莫",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ],
+          "skills": [
+            {
+              "name": "猛烈撞击",
+              "attribute": "普通",
+              "category": "物攻",
+              "cost": "1",
+              "power": "65",
+              "effect": "对敌方精灵造成物理伤害。",
+              "description": "''头比计划先达到目的地。''",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\猛烈撞击.png"
+              ]
+            },
+            {
+              "name": "闪光",
+              "attribute": "光",
+              "category": "魔攻",
+              "cost": "1",
+              "power": "60",
+              "effect": "对敌方精灵造成魔法伤害。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\闪光.png"
+              ]
+            },
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "cost": "1",
+              "power": "0",
+              "effect": "减伤70%，应对攻击。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\防御.png"
+              ]
+            },
+            {
+              "name": "魔法增效",
+              "attribute": "普通",
+              "category": "状态",
+              "cost": "0",
+              "power": "0",
+              "effect": "自己获得魔攻+70%。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\魔法增效.png"
+              ]
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "光"
+          ],
+          "stats": {
+            "hp": 120,
+            "atk": 80,
+            "sp_atk": 80,
+            "def": 105,
+            "sp_def": 105,
+            "spd": 92,
+            "total": 582
+          },
+          "no": null,
+          "ability": {
+            "name": "最好的伙伴",
+            "description": "造成克制伤害后，获得攻防速+20%，并回复2能量。"
+          }
+        },
+        {
+          "name": "火神",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ],
+          "skills": [
+            {
+              "name": "力量增效",
+              "attribute": "普通",
+              "category": "状态",
+              "cost": "1",
+              "power": "0",
+              "effect": "自己获得物攻+100%。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\力量增效.png"
+              ]
+            },
+            {
+              "name": "火苗",
+              "attribute": "火",
+              "category": "物攻",
+              "cost": "0",
+              "power": "30",
+              "effect": "造成物伤，自己回复1能量。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\火苗.png"
+              ]
+            },
+            {
+              "name": "猛烈撞击",
+              "attribute": "普通",
+              "category": "物攻",
+              "cost": "1",
+              "power": "65",
+              "effect": "对敌方精灵造成物理伤害。",
+              "description": "''头比计划先达到目的地。''",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\猛烈撞击.png"
+              ]
+            },
+            {
+              "name": "火焰切割",
+              "attribute": "火",
+              "category": "物攻",
+              "cost": "3",
+              "power": "100",
+              "effect": "对敌方精灵造成物理伤害。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\火焰切割.png"
+              ]
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "火"
+          ],
+          "stats": {
+            "hp": 117,
+            "atk": 139,
+            "sp_atk": 61,
+            "def": 94,
+            "sp_def": 72,
+            "spd": 130,
+            "total": 613
+          },
+          "no": null,
+          "ability": {
+            "name": "助燃",
+            "description": "使用火系技能后，获得双攻+20%。"
+          }
+        },
+        {
+          "name": "岚鸟（本来的样子）",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ],
+          "skills": [
+            {
+              "name": "啄击",
+              "attribute": "翼",
+              "category": "物攻",
+              "cost": "0",
+              "power": "15",
+              "effect": "造成物伤，2连击。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\啄击.png"
+              ]
+            },
+            {
+              "name": "力量增效",
+              "attribute": "普通",
+              "category": "状态",
+              "cost": "1",
+              "power": "0",
+              "effect": "自己获得物攻+100%。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\力量增效.png"
+              ]
+            },
+            {
+              "name": "先发制人",
+              "attribute": "普通",
+              "category": "物攻",
+              "cost": "2",
+              "power": "55",
+              "effect": "造成物理伤害，先手+1。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\先发制人.png"
+              ]
+            },
+            {
+              "name": "乘风",
+              "attribute": "翼",
+              "category": "状态",
+              "cost": "2",
+              "power": "0",
+              "effect": "自己获得速度+120。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\乘风.png"
+              ]
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "翼"
+          ],
+          "stats": {
+            "hp": 90,
+            "atk": 128,
+            "sp_atk": 55,
+            "def": 108,
+            "sp_def": 74,
+            "spd": 115,
+            "total": 570
+          },
+          "no": null,
+          "ability": {
+            "name": "顺风",
+            "description": "若先于敌方攻击，本次技能威力+50%。"
+          }
+        },
+        {
+          "name": "魔力猫",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ],
+          "skills": [
+            {
+              "name": "抓挠",
+              "attribute": "普通",
+              "category": "物攻",
+              "cost": "0",
+              "power": "35",
+              "effect": "造成物伤，自己回复1能量。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\抓挠.png"
+              ]
+            },
+            {
+              "name": "休息回复",
+              "attribute": "普通",
+              "category": "状态",
+              "cost": "2",
+              "power": "0",
+              "effect": "自己回复30%生命。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\休息回复.png"
+              ]
+            },
+            {
+              "name": "棘突",
+              "attribute": "草",
+              "category": "魔攻",
+              "cost": "3",
+              "power": "100",
+              "effect": "对敌方精灵造成魔法伤害。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\棘突.png"
+              ]
+            },
+            {
+              "name": "扫尾",
+              "attribute": "普通",
+              "category": "物攻",
+              "cost": "2",
+              "power": "90",
+              "effect": "对敌方精灵造成物理伤害。",
+              "description": "''注意：当看到尾巴扫过来的时候，请记得起跳，像跳绳那样。''",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\扫尾.png"
+              ]
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "草"
+          ],
+          "stats": {
+            "hp": 108,
+            "atk": 109,
+            "sp_atk": 109,
+            "def": 81,
+            "sp_def": 151,
+            "spd": 55,
+            "total": 613
+          },
+          "no": null,
+          "ability": {
+            "name": "氧循环",
+            "description": "使用草系技能后，回复10%生命。"
+          }
+        },
+        {
+          "name": "水灵",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ],
+          "skills": [
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "cost": "1",
+              "power": "0",
+              "effect": "减伤70%，应对攻击。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\防御.png"
+              ]
+            },
+            {
+              "name": "拍击",
+              "attribute": "普通",
+              "category": "魔攻",
+              "cost": "1",
+              "power": "65",
+              "effect": "对敌方精灵造成魔法伤害。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\拍击.png"
+              ]
+            },
+            {
+              "name": "甩水",
+              "attribute": "水",
+              "category": "魔攻",
+              "cost": "0",
+              "power": "30",
+              "effect": "造成魔伤，自己回复1能量。",
+              "description": "''一滴水珠被波波拉的小手托起，它说赠我小小的蓝。''",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\甩水.png"
+              ]
+            },
+            {
+              "name": "气泡",
+              "attribute": "水",
+              "category": "魔攻",
+              "cost": "3",
+              "power": "100",
+              "effect": "对敌方精灵造成魔法伤害。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\气泡.png"
+              ]
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "水"
+          ],
+          "stats": {
+            "hp": 125,
+            "atk": 58,
+            "sp_atk": 127,
+            "def": 94,
+            "sp_def": 132,
+            "spd": 85,
+            "total": 621
+          },
+          "no": null,
+          "ability": {
+            "name": "浸润",
+            "description": "使用水系技能后，全技能能耗-1。"
+          }
+        },
+        {
+          "name": "鸭吉吉（蓬松的样子）",
+          "nature": "沉默",
+          "bloodline": "普通",
+          "boosts": [
+            "HP",
+            "物攻",
+            "速度"
+          ],
+          "skills": [
+            {
+              "name": "猛烈撞击",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 65,
+              "cost": 1
+            },
+            {
+              "name": "力量增效",
+              "attribute": "普通",
+              "category": "状态",
+              "power": 0,
+              "cost": 1
+            },
+            {
+              "name": "扫尾",
+              "attribute": "普通",
+              "category": "物攻",
+              "power": 90,
+              "cost": 2
+            },
+            {
+              "name": "防御",
+              "attribute": "普通",
+              "category": "防御",
+              "cost": "1",
+              "power": "0",
+              "effect": "减伤70%，应对攻击。",
+              "description": "",
+              "skill_version": "0.1",
+              "image_paths": [
+                "D:\\洛克王国世界助手\\dist\\resources\\images\\skills\\防御.png"
+              ]
+            }
+          ],
+          "note": "个体: 生命,物攻,速度",
+          "attributes": [
+            "普通"
+          ],
+          "stats": {
+            "hp": 137,
+            "atk": 35,
+            "sp_atk": 94,
+            "def": 46,
+            "sp_def": 57,
+            "spd": 100,
+            "total": 469
+          },
+          "no": null,
+          "ability": {
+            "name": "挺起胸脯",
+            "description": "携带的能耗为1的技能，威力+50%。"
+          }
+        }
+      ],
+      "source": "wiki",
+      "wiki_id": "f614b3257c5fc9e4a8d6c7a7f4a516ac",
+      "wiki_author": "轩轩轩123",
+      "author": "轩轩轩123",
+      "wiki_date": "2026-4-10",
+      "date": "2026-4-10",
+      "wiki_type": "pvp",
+      "type": "pvp",
+      "wiki_desc": "测试一下上传功能是否能够正常使用",
+      "description": "测试一下上传功能是否能够正常使用",
+      "magic": "进化之力"
+    }
+  ]
+}
