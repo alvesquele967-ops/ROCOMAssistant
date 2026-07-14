@@ -46,3 +46,51 @@ A quick-integration query and editing tool built for the game *Roco Kingdom: Wor
 | 抖音 | takesitaame |
 
 欢迎关注交流！✨
+
+
+# Zhuyu ROCOM Assistant
+
+## 📖 Introduction
+
+Hello players! This game integration toolkit (**Zhuyu ROCOM Assistant**) is a **free tool** created by me as a personal hobby project, designed to make it easy for everyone to look up sprite and skill information and calculate related values.
+
+The tool is developed in Python and packaged as an `.exe` executable file, with the **source code fully open**. Everyone is free to modify, add new features, and optimize existing ones.
+
+The tool supports real-time data fetching via the **Roco Kingdom: World bwiki API**, while also offering the option to store data locally in folders or JSON files. Your data is fully under your control — **no privacy uploads**, so please rest assured.
+
+> Author's Douyin: **takesitaame** — welcome to follow and connect. Wishing everyone a great time with the game! 🎮
+
+---
+
+## ⚠️ Usage Notes
+
+### 1. Data Source
+- Sprite and skill illustration data is sourced from the **Roco Kingdom: World bwiki API**, with support for real-time updates
+- Related calculation formulas are compiled from publicly available online content; I do not claim any copyright over them
+
+### 2. Usage Policy
+The following uses of this tool are **strictly prohibited**:
+- ❌ Commercial use
+- ❌ Commercial distribution
+- ❌ Resale
+
+> ✅ The tool is intended **solely for personal learning and in-game reference purposes**
+
+### 3. Storage Note
+In addition to online real-time data retrieval, the tool supports local storage of data in:
+- 📁 Local folders
+- 📄 JSON files
+
+### 4. Disclaimer
+- The data and calculation results are for **reference only** — all information is subject to the **official in-game content**
+- Any issues arising from **unauthorized modification of the source code** or **improper use** of the tool are the **sole responsibility of the user**
+
+---
+
+## 🔗 Contact the Author
+
+| Platform | Handle |
+|----------|--------|
+| Douyin   | takesitaame |
+
+Feel free to follow and connect! ✨
